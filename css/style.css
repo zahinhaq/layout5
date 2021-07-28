@@ -1,0 +1,158 @@
+
+*{
+    margin: 0%;
+    
+    padding: 0%;
+    }
+
+    header {
+        overflow: hidden;
+    }
+
+    .logo {
+        float: left;
+        height: 110px;
+        background-color: #003638;
+        width: 15%;
+        padding-top: 10px;
+
+    }
+
+    banner {
+        float: left;
+        width: 85%;
+        font-size: 50px;
+        height:100px;
+        padding-top: 20px;
+        background-color: #055052;
+        color: whitesmoke;  
+    }
+
+    .headerMenu {
+        float: right;
+        height: 110px;
+        width: 70%;
+        background-color: #50CB93;
+    }
+
+    button {
+        background-color: #71EFA3;
+        border: none;
+        color: white;
+        padding: 15px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 27px 4px;
+        cursor: pointer;  
+    }
+
+
+    div {
+        overflow: hidden;
+    }
+
+    .client1 {
+        float: left;
+        background-color: #50CB93;
+        height: 200px;
+        width: 20%;
+        text-align: center;
+
+    }
+
+    .client2 {
+        float: left;
+        background-color: #71EFA3;
+        height: 200px;
+        width: 20%;
+        text-align: center;
+
+
+    }
+    .client3 {
+        float: left;
+        background-color: #50CB93;
+        height: 200px;
+        width: 20%;
+        text-align: center;
+ 
+
+    }
+    .client4 {
+        float: left;
+        background-color: #71EFA3;
+        height: 200px;
+        width: 20%;
+        text-align: center;
+
+
+    }
+    .client5 {
+        float: left;
+        background-color: #50CB93;
+        height: 200px;
+        width: 20%;
+        text-align: center;
+
+
+    }
+    
+    .clients {
+        overflow: hidden;
+    }
+
+    footer{
+        text-align: center;
+        background-color: #4deb8c;
+        height: 100px;
+        color:#54436B;
+    }
+
+    .data {
+        overflow: hidden;
+        height: 400px;
+        
+    }
+
+    .left {
+        float: left;
+        width: 40%;
+        background-color: #53B8BB;
+        height: 400px;
+    }
+
+    .center {
+        float: left;
+        width: 30%;
+        background-color: #055052;
+        height: 400px;
+        text-align: center;
+        padding-top: 200px;
+    }
+    .right {
+        float: left;
+        width: 30%;
+        background-color: #53B8BB;
+        height: 400px;
+    }
+
+    .left_top{
+        height: 200px;
+        background-color: aqua;
+        text-align: center;
+    }
+    .left_bottom{
+        text-align: center;
+
+    }
+
+    .right_top{
+        height: 200px;
+        background-color: aqua;
+        text-align: center;
+    }
+    .right_bottom{
+        text-align: center;
+
